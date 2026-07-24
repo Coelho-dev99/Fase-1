@@ -14,5 +14,5 @@ for numero in lista:
     if numero  > maior:
         maior = numero
 
-print (f"Lista informada: {lista}")
-print (f"O maior número da lista é: {maior}")
+print (f"A sua lista digitada é: {lista}")
+print (f"O maior número da sua lista é: {maior}")
